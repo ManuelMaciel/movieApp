@@ -1,0 +1,15 @@
+{
+  "name": "Movie_App",
+  "version": "1.0.0",
+  "description": "app of movie made with electron, shows the data of a movie as actors, directors, description and score",
+  "repository": "manuelmaciel/movieApp",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron main.js"
+  },
+  "author": "ManuelMaciel",
+  "license": "MIT",
+  "devDependencies": {
+    "electron": "^1.4.1"
+  }
+}
